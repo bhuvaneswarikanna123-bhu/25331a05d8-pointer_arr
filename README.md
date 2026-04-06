@@ -5,6 +5,7 @@ int main() {
     int arr[5] = {10, 20, 30, 40, 50};
     int *ptr = arr;
     int i;
+    printf("_25331a05d8_\n");
 
     printf("Using pointer increment:\n");
 
